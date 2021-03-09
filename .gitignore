@@ -21,3 +21,6 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# 教材用のサンプルデータが入ったディレクトリ
+download
